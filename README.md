@@ -37,7 +37,7 @@ gcc main.c -o calculadora
 
 Ao rodar o programa, você poderá escolher a operação desejada e inserir os números conforme o menu apresentado:
 
-![Print Exemplo de Demonstacao](exemploDemonstracao.png)
+![Print Exemplo de Demonstacao](assets/exemploDemonstracao.png)
 
 Exemplo de comando no terminal:
 ```bash
