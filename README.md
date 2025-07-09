@@ -2,7 +2,7 @@
 
 Uma calculadora simples desenvolvida em linguagem C, capaz de realizar as quatro operações básicas: adição, subtração, multiplicação e divisão. O projeto foi criado com fins didáticos para reforçar conceitos básicos da linguagem C e manipulação de entradas e saídas.
 
-![Calculadora Print](assets/screenshot.png)
+![Calculadora Print](assets/printMenu.png)
 
 ## 🚀 Instalação e Pré-requisitos
 
