@@ -35,7 +35,7 @@ gcc main.c -o calculadora
 
 ## ⚙️ Uso e Exemplos
 
-Ao rodar o programa, você poderá escolher a operação desejada e inserir os números conforme o menu apresentado:
+Ao rodar o programa, você poderá escolher a operação desejada e inserir os números conforme o menu apresentado. Será mostrado o resultado da operação, e você tem a opção de executar novamente outra operação:
 
 ![Print Exemplo de Demonstacao](assets/exemploDemonstracao.png)
 
