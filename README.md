@@ -1,6 +1,6 @@
 # 📟 Calculadora Simples em C
 
-Uma calculadora simples desenvolvida em linguagem C, capaz de realizar as quatro operações básicas: adição, subtração, multiplicação e divisão. O projeto foi criado com fins didáticos para reforçar conceitos básicos da linguagem C e manipulação de entradas e saídas.
+Uma calculadora simples desenvolvida em linguagem C, capaz de realizar as quatro operações básicas: adição, subtração, multiplicação e divisão. O projeto foi criado com baseado no projeto "Calculadora Baseada em Texto em C" do Neps Academy.
 
 ![Calculadora Print](assets/printMenu.png)
 
