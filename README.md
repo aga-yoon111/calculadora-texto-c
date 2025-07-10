@@ -8,7 +8,7 @@ Uma calculadora simples desenvolvida em linguagem C, capaz de realizar as quatro
 
 Abaixo, você pode ver uma demonstração real do funcionamento da calculadora em um terminal:
 
-![Print Exemplo de Demonstração](assets/divisaoExemplo.png)
+![Print Exemplo de Demonstração](assets/exemploDemonstracao.png)
 
 O programa exibe um menu, permite ao usuário escolher a operação desejada da operação e informa o resultado de forma clara e objetiva, com a opção de realizar novamente!
 
@@ -43,27 +43,16 @@ gcc main.c -o calculadora
 
 ## ⚙️ Uso e Exemplos
 
-Ao rodar o programa, você poderá escolher a operação desejada e inserir os números conforme o menu apresentado:
-
-```
-=============================
-Calculadora Simples
-=============================
-Selecione uma operação:
-1. Adição
-2. Subtração
-3. Multiplicação
-4. Divisão
-5. Sair
-```
+Ao rodar o programa, você poderá escolher a operação desejada e inserir os números conforme o menu apresentado.
 
 ### Exemplos práticos:
 
-✅ Exemplo 1: Adição  
-O usuário escolhe a opção 1, insere os números 12 e 5, e recebe o resultado:
+Exemplo 1: Adição  
+O usuário escolhe a opção 1, insere os números 2025 e 141414, e recebe o resultado:
 ```
-Resultado: 12 + 5 = 17
+Resultado: 2025 + 141414 = 143449,00
 ```
+![Exemplo de Divisão](assets/adicaoExemplo.png)
 
 ✅ Exemplo 2: Divisão (captura abaixo)  
 O usuário escolhe a opção 4, insere 27489 e 3, e recebe:
@@ -83,6 +72,7 @@ calculadora-simples-c/
 │── LICENSE
 └── assets/
     ├── printMenu.png
+    └── adicaoExemplo.png
     └── divisaoExemplo.png
 ```
 
