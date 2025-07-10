@@ -47,21 +47,21 @@ Ao rodar o programa, você poderá escolher a operação desejada e inserir os n
 
 ### Exemplos práticos:
 
-Exemplo 1: Adição  
+📌Exemplo 1: Adição (captura abaixo)
 O usuário escolhe a opção 1, insere os números 2025 e 141414, e recebe o resultado:
 ```
 Resultado: 2025 + 141414 = 143449,00
 ```
 ![Exemplo de Divisão](assets/adicaoExemplo.png)
 
-✅ Exemplo 2: Divisão (captura abaixo)  
+📌Exemplo 2: Divisão (captura abaixo)  
 O usuário escolhe a opção 4, insere 27489 e 3, e recebe:
 ```
 Resultado: 27489,00 / 3,00 = 9163,00
 ```
 ![Exemplo de Divisão](assets/divisaoExemplo.png)
 
-O programa então pergunta se o usuário deseja realizar outra operação.
+O programa então pergunta se o usuário deseja realizar outra operação!
 
 ## 📁 Estrutura do Projeto
 
