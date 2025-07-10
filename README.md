@@ -72,6 +72,7 @@ calculadora-simples-c/
 │── LICENSE
 └── assets/
     ├── printMenu.png
+    └── exemploDemonstracao.png
     └── adicaoExemplo.png
     └── divisaoExemplo.png
 ```
